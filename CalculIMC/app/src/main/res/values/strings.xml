@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calcul IMC</string>
+    <string name="hint_poids">Poids (kg)</string>
+    <string name="hint_taille">Taille (cm)</string>
+    <string name="btn_calculer">Calculer</string>
+    <string name="label_imc">IMC :</string>
+    <string name="cat_insuffisance">Insuffisance pondérale</string>
+    <string name="cat_normale">Corpulence normale</string>
+    <string name="cat_surpoids">Surpoids</string>
+    <string name="cat_obesite">Obésité</string>
+</resources>

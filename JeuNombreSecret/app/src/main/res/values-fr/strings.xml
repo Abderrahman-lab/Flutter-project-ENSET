@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jeu du Nombre</string>
+    <string name="text_devinez">Devinez un nombre entre 1 et 100</string>
+    <string name="nombre_plus_grand">Essayez un nombre plus petit</string>
+    <string name="nombre_plus_petit">Essayez un nombre plus grand</string>
+    <string name="bravo">Bravo !</string>
+    <string name="str_score">Score :</string>
+    <string name="essai_numero">Essai numéro :</string>
+    <string name="str_nouvel_essai">Nouvelle partie ?</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_finish">Terminer</string>
+</resources>

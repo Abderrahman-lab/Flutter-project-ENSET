@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">لعبة الرقم</string>
+    <string name="text_devinez">خمن رقما بين 1 و 100</string>
+    <string name="nombre_plus_grand">جرب رقما أصغر</string>
+    <string name="nombre_plus_petit">جرب رقما أكبر</string>
+    <string name="bravo">أحسنت!</string>
+    <string name="str_score">النقاط:</string>
+    <string name="essai_numero">المحاولة رقم:</string>
+    <string name="str_nouvel_essai">محاولة جديدة؟</string>
+    <string name="btn_ok">موافق</string>
+    <string name="btn_finish">إنهاء</string>
+</resources>

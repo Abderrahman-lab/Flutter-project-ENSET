@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#8BC34A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="catInsuffisance">#2196F3</color>
+    <color name="catNormale">#4CAF50</color>
+    <color name="catSurpoids">#FF9800</color>
+    <color name="catObesite">#F44336</color>
+</resources>
